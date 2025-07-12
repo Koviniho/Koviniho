@@ -1,58 +1,71 @@
-<h1 align="center">Hi 👋, I'm Koviniho</h1>
-<h3 align="center">🚀 Developer | 🧠 Visionär | 🔐 Tech-Enthusiast</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🔭 Aktuell arbeite ich an **High-Impact SaaS Lösungen**  
-- 🌱 Ich lerne gerade **AI, Distributed Systems & Security**  
-- 👯 Ich suche nach spannenden **Kooperationsmöglichkeiten**  
-- ⚡ Fun Fact: Ich code bis spät in die Nacht und plane global 🚀  
-- 💬 Frag mich gerne zu: **Spring Boot, React, DevOps, AI**  
-- 📫 Kontakt: **koviniho@pm.me** *(oder dein Link)*
-
----
-
-### 🧰 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-### 🔥 GitHub Stats
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=900&lines=Hey!+I'm+Koviniho+👋;Fullstack+Developer+%F0%9F%9A%80;Spring+Boot+%2B+React+Wizard+%F0%9F%A7%99;Building+Futuristic+Software+%F0%9F%A7%96" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koviniho&show_icons=true&theme=tokyonight" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koviniho&theme=tokyonight" alt="streak" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
 </p>
 
 ---
 
-### 📈 Activity Graph
+## 🚀 About Me
+
+💻 Fullstack Developer  
+🧠 Passion für KI, Microservices & Cybersecurity  
+🌍 Aufbau globaler Tools (SaaS, Dashboards, KI-Systeme)  
+🏆 Ziel: Die krassesten Produkte Europas launchen  
+🧩 Ich baue: Carlusion • EasyDine • Jobyz • GlobalAIx
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,docker,postgres,git,github,ts,js,tailwind,mysql,vercel" />
+</div>
+
+---
+
+## ⚡ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Koviniho&show_icons=true&theme=radical&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koviniho&theme=radical&hide_border=true" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koviniho&theme=react-dark&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🔥 Projects in Progress
+
+- 🧠 **GlobalAIx** – Eine KI, die Unternehmen selbst führt  
+- 🚗 **Carlusion** – SaaS für Autohändler, voll automatisiert  
+- 🍽️ **EasyDine** – QR-gestütztes Restaurantsystem mit POS  
+- 🧪 **TrueFox** – Fehlerplattform mit KI-Diagnose  
+- 💼 **Jobyz** – Jobplattform mit Video-Bewerbungen
+
+---
+
+## 🧠 Quote of the Day
+
+> *"First, solve the problem. Then, write the code."*  
+> — John Johnson
+
+---
+
+## ☕ Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Koviniho&theme=github-dark&hide_border=true"/>
+  <a href="mailto:koviniho@pm.me"><img src="https://img.shields.io/badge/Mail-Kontakt-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/koviniho"><img src="https://img.shields.io/badge/LinkedIn-Koviniho-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-koviniho.dev-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white"></a>
 </p>
 
 ---
 
-### 🧠 Zitat des Tages
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-### ☕ Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Koviniho-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/koviniho)
-[![Website](https://img.shields.io/badge/Portfolio-koviniho.dev-blueviolet?style=flat&logo=githubpages)](https://your-website.com)
-[![Mail](https://img.shields.io/badge/E--Mail-koviniho%40pm.me-informational?style=flat&logo=gmail)](mailto:koviniho@pm.me)
-
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&text=Thanks%20for%20visiting!%20🌊&fontAlign=40&fontAlignY=40&color=gradient&animation=twinkling&fontColor=ffffff" />
+</p>
