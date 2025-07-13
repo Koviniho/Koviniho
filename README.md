@@ -10,18 +10,20 @@
 ### 🚀 What I'm Building
 
 
+---
 
 ### 🛠 Tech Stack
 
-**Languages & Frameworks**
+**🧠 Languages & Runtime**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 
-**Frontend & Styling**
+**🎨 Frontend & Styling**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
@@ -29,15 +31,21 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-**Backend & Database**
+**⚙️ Backend & Infrastructure**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-blue?style=flat&logo=docker&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-2f2f2f?style=flat)
 
----
+**📦 Tools & Config**
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-000000?style=flat&logo=yaml&logoColor=white)
+
 
 ### 📊 GitHub Stats
 
