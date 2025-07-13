@@ -31,6 +31,10 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+**🎮 Game & Scripting**
+
+![ESX](https://img.shields.io/badge/ESX-FiveM-blueviolet?style=flat&logo=fivem&logoColor=white)
+
 **⚙️ Backend & Infrastructure**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
