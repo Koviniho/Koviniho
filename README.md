@@ -9,11 +9,7 @@
 
 ### 🚀 What I'm Building
 
-- 🧠 **GlobalAIx** — Autonomous AI to run entire companies (Strategy, Marketing, Finance, Support)
-- 🚗 **Carlusion** — SaaS for modern car dealerships (CRM, contracts, websites, AI tools)
-- 🍽 **EasyDine** — Smart restaurant system (QR orders, kitchen routing, POS, analytics)
-- 🔐 **Hacker Dashboard** — Full pentest toolkit (whois, nmap, WAF, CVEs, gitleaks, subdomain scanner, more)
-- 📈 **Smatik** — Creative + Tech Studio (Web, AI, SEO, Branding)
+
 
 ---
 
