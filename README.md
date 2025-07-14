@@ -11,7 +11,7 @@
 
 🧠 AI-driven SaaS platforms  
 🚗 Automotive Tech 
-🍽️ Restaurant tools (EasyDine)  
+🍽️ Restaurant tools 
 🛠 Internal Developer Platforms & Dashboards  
 🔐 Fullstack apps with Spring Boot, React, LangChain
 
