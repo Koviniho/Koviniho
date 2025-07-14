@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Koviniho 👋</h1>
 
 <p align="center">
-  <b>Tech Entrepreneur, Fullstack Engineer & Creative Hacker</b><br/>
-  Building next-gen AI, web, and security tools ⚡️
+  <b>Tech Entrepreneur, Fullstack Engineer </b><br/>
+  Building next-gen AI, web, and saas tools ⚡️
 </p>
 
 ---
