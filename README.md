@@ -9,9 +9,10 @@
 
 ### 🚀 What I'm Building
 
-! [🧠 AI-driven SaaS platforms]
-! [🚗 Automotive Tech] 
-! [🔐 Fullstack apps with Spring Boot, Next.js, LangChain]
+🧠 AI-driven SaaS platforms
+🚗 Automotive Tech
+🛠 Internal Developer Platforms & Dashboards
+🔐 Fullstack apps with Spring Boot, React, LangChain
 
 ---
 
