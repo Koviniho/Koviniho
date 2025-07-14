@@ -1,14 +1,19 @@
 <h1 align="center">Hi, I'm Koviniho 👋</h1>
 
 <p align="center">
-  <b>Tech Entrepreneur, Fullstack Engineer </b><br/>
-  Building next-gen AI, web, and saas tools ⚡️
+  <b>Tech Entrepreneur · Fullstack Engineer</b><br/>
+  Building next-gen AI, web, and SaaS tools ⚡️
 </p>
 
 ---
 
 ### 🚀 What I'm Building
 
+🧠 AI-driven SaaS platforms  
+🚗 Automotive Tech 
+🍽️ Restaurant tools (EasyDine)  
+🛠 Internal Developer Platforms & Dashboards  
+🔐 Fullstack apps with Spring Boot, React, LangChain
 
 ---
 
@@ -38,18 +43,33 @@
 **⚙️ Backend & Infrastructure**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Dockerfile](https://img.shields.io/badge/Dockerfile-blue?style=flat&logo=docker&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F61?style=flat&logo=api&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-8A2BE2?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-2f2f2f?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![CI/CD](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FE652F?style=flat&logo=n8n&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Firewall](https://img.shields.io/badge/Firewall%20Rules-FF5733?style=flat)
+![VPS](https://img.shields.io/badge/VPS%20Hosting-0066A1?style=flat&logo=linux&logoColor=white)
 
 **📦 Tools & Config**
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-000000?style=flat&logo=yaml&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+---
 
 ### 📊 GitHub Stats
 
@@ -62,7 +82,7 @@
 
 ### 🌍 Let's Connect
 
-- 🧠 [Website (coming soon)](https://smatik.ch)
+- 🧠 [Website (coming soon)
 - 🧪 [Projects](https://github.com/Koviniho?tab=repositories)
 - ✉️ Reach out: `koviniho@smatik.ch`
 
@@ -71,4 +91,3 @@
 ### 💬 Motto
 
 > *“Code it like a hacker, ship it like a boss.”* – Koviniho
-
