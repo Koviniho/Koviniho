@@ -12,8 +12,6 @@
 - 🧰 **Developer Platforms** – Dashboards, internal tools & DevOps support systems.
 - 🧱 **Fullstack Applications** – Built with Spring Boot, Next.js, TypeScript, LangChain & OpenAI.
 
-> Currently building products under **Smatik Group** like **Carlusion**, **EasyDine**, **Jobyz** and **DevToolkit Pro** – all engineered with performance, automation and scalability in mind.
-
 ---
 
 ## 🧰 Tech Stack
@@ -104,34 +102,6 @@
 ![Multi-Tenant SaaS](https://img.shields.io/badge/-Multi--Tenant%20SaaS-blueviolet)
 ![eCommerce](https://img.shields.io/badge/-eCommerce-darkblue)
 ![Pentesting Tools](https://img.shields.io/badge/-Pentest%20Tools-darkred)
-
----
-
-## 🔥 Featured Projects
-
-### 🔧 [DevToolkit Pro](https://github.com/Koviniho/devtoolkit_pro)  
-Complete hacker dashboard for security testing: WHOIS, CVEs, DNS, WAF, SSL, CMS, subdomains, and more – terminal-style & automated.
-
-### 🚘 [Carlusion](https://carlusion.com) *(coming soon)*  
-A complete AI-powered platform for car dealers – CRM, contract generation, trade-in evaluation, inventory & financing.
-
-### 🍽 [EasyDine](https://easydine.ch)  
-QR-based restaurant ordering, loyalty system, staff app & full admin control. Smart ordering made simple.
-
-### 🌍 [Jobyz](https://jobyz.ch)  
-Job platform with AI candidate matching, recruiter cockpit, and analytics.
-
----
-
-## 🏗 Smatik Group
-
-> Smatik Group is my innovation lab and product engine – built around 3 strong brands:
-
-- 🎨 **Smatik Creative Studio** → Branding, design & web experiences  
-- 🧠 **Smatik Technologies** → AI, SaaS, internal tools & automation  
-- 📈 **Smatik Digital** → SEO, growth strategies, performance marketing  
-
-→ [Visit smatik.ch](https://smatik.ch) *(coming soon)*
 
 ---
 
