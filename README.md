@@ -1,72 +1,91 @@
-# 👋 Hi, I'm **Koviniho**
-
-## 🧠 Tech Entrepreneur • Fullstack Engineer • AI Innovator  
-🚀 Building next-gen AI, web & SaaS systems that scale and automate like magic.
-
----
-
-### ⚡ What I Build
-
-- 🤖 **AI-powered SaaS** — Multi-tenant platforms, RAG search, automation pipelines.
-- 🚗 **Automotive Tech** — Digital sales tools, CRM, financing & smart contract flows.
-- 🧰 **Dev Platforms** — Dashboards, pentest toolkits, DevOps utilities.
-- 🌐 **Fullstack Systems** — Java Spring Boot, Next.js App Router, TypeScript, LangChain, OpenAI.
-
----
-
-## 🚀 Tech Stack Highlights
-
-| 🔤 Languages | 🖥️ Frontend | 🔙 Backend & API | 🤖 AI & Automation | 🐳 DevOps & Infra | 🗄️ Databases |
-|-------------|-------------|------------------|---------------------|-------------------|--------------|
-| ![Java](https://img.shields.io/badge/-Java-orange) ![C#](https://img.shields.io/badge/-C%23-purple) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6) | ![Next.js](https://img.shields.io/badge/-Next.js-black) ![React](https://img.shields.io/badge/-React-61DAFB) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38b2ac) | ![Spring Boot](https://img.shields.io/badge/-SpringBoot-brightgreen) ![Node.js](https://img.shields.io/badge/-Node.js-3C873A) ![REST API](https://img.shields.io/badge/-REST-orange) | ![LangChain](https://img.shields.io/badge/-LangChain-ff69b4) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991) ![AI Agents](https://img.shields.io/badge/-AI%20Agents-darkred) | ![Docker](https://img.shields.io/badge/-Docker-2496ED) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-181717) ![CI/CD](https://img.shields.io/badge/-CI/CD-green) | ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![Redis](https://img.shields.io/badge/-Redis-red) |
-
-> 🧠 Bonus: Whisper API · Embeddings · RAG · Pinecone · JWT · OAuth2 · Supabase · WebSockets
-
----
-
-## 🛠️ Featured Projects
-
-| 🚀 Project | 💡 Description |
-|-----------|----------------|
-| [**Carlusion**](https://github.com/Koviniho) | AI-first SaaS for car dealers – sales, CRM, financing & contracts. |
-| [**EasyDine**](https://github.com/Koviniho) | QR-ordering & POS SaaS for restaurants – full-stack with dashboard, mobile views, loyalty & more. |
-| [**Jobyz**](https://github.com/Koviniho) | Next-gen job portal with advanced filtering, AI-matching & employer dashboards. |
-| [**TrueFox**](https://github.com/Koviniho) | DevOps & error tracking suite with AI assistant and admin dashboard. |
-| [**GlobalAIx**](https://github.com/Koviniho) | AI that *runs your business* – strategy, marketing, CRM, finance, support. Fully autonomous. |
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hi, I'm <span style="color:#b29146;">Koviniho</span> 👑</h1>
+<h3 align="center">👨‍💻 Tech CEO • Fullstack Genius • AI Architect • Builder of Billion-Dollar Code</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koviniho&show_icons=true&theme=tokyonight&count_private=true" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koviniho&layout=compact&theme=tokyonight" width="49%">
+  <img src="https://img.shields.io/badge/Role-CEO%20%7C%20Founder%20@%20Smatik-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Platforms-Built%20for%20the%20Future-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Java%20%7C%20Next.js%20%7C%20LangChain%20%7C%20Docker-blue?style=for-the-badge" />
 </p>
 
 ---
 
-## ✨ Fun Fact
+## ⚔️ My Empire
 
-> 🕹️ I started with GTA Lua mods.  
-> 🧠 Now I'm building AI agents, cloud SaaS, and pentest dashboards.  
-> 🦾 From code monkey to AI boss.
+🚀 **Smatik Group** – Like Google. But sharper.  
+👨‍💼 CEO & Architect of:
+
+- 🔥 [**Carlusion**](https://github.com/Koviniho) – AI car sales SaaS with full automation, financing & CRM.
+- 🍽️ [**EasyDine**](https://github.com/Koviniho) – QR-based restaurant tech with table maps, loyalty & POS.
+- 🧠 [**GlobalAIx**](https://github.com/Koviniho) – AI that runs your company. Literally.
+- 👨‍🔧 [**TrueFox**](https://github.com/Koviniho) – Dev error platform with embedding search & auto-fix.
+- 💼 [**Jobyz**](https://github.com/Koviniho) – AI-powered job portal with recruiter cockpit & smart matching.
+
+---
+
+## 🧠 The Stack of Titans
+
+| Area         | Tech |
+|--------------|------|
+| 🧱 Backend    | Spring Boot · Node.js · REST · WebSockets · JWT |
+| 🎨 Frontend   | Next.js · React · Tailwind · Shadcn/UI · Animations |
+| 🤖 AI & LLMs  | LangChain · OpenAI · Pinecone · Whisper · RAG · VectorDB |
+| 🐳 DevOps     | Docker · GitHub Actions · CI/CD · SSH · Nginx · VPS |
+| 🗄️ Databases | MySQL · PostgreSQL · MongoDB · Redis · Supabase |
+
+> 💎 *Optimiert bis zum letzten Byte. Skalierbar. Sicher. Extrem schnell.*
+
+---
+
+## 💼 Business Superpowers
+
+- 💸 Multi-Tenant SaaS Architectures
+- 🧾 Contract Automation with AI
+- 🔐 Fullstack Security + Pentest Dashboards
+- 📊 CRM, ERP, Financial Systems
+- 🌍 Global AI Deployments & Agent Workflows
+
+---
+
+## 📈 GitHub Power
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Koviniho&show_icons=true&theme=radical&count_private=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koviniho&layout=compact&theme=radical" width="49%">
+</p>
 
 ---
 
 ## 🧠 Motto
 
-> **“Code it like a hacker, ship it like a boss.”** — *Koviniho*
+> “**Don’t build features – build futures.**”  
+> — *Koviniho, Tech CEO & Digital Architect*
 
 ---
 
-## 📬 Let's Connect
+## 🕹️ Fun Origin
 
-- 🌐 [Website](https://dev.to/koviniho)
-- 📨 [Email](mailto:koviniho@smatik.ch)
-- 💼 [GitHub Projects](https://github.com/Koviniho?tab=repositories)
+I started modding GTA servers in **Lua**.  
+Today I build systems that:
+
+- 🧾 Sign real contracts with AI  
+- 🍽️ Run restaurants without waiters  
+- 🚗 Sell cars while you sleep  
+- 🧠 Replace entire departments with agents
+
+Yeah, it escalated quickly.
+
+---
+
+## 🌐 Connect with Me
+
+| Platform     | Link |
+|--------------|------|
+| 🔗 Website   | [dev.to/koviniho](https://dev.to/koviniho) |
+| 💌 Email     | [koviniho@smatik.ch](mailto:koviniho@smatik.ch) |
+| 🧠 GitHub    | [github.com/Koviniho](https://github.com/Koviniho?tab=repositories) |
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Koviniho&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Koviniho&style=flat-square&color=gold" alt="profile views"/>
 </p>
