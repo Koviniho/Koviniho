@@ -22,7 +22,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![Lua](https://img.shields.io/badge/-Lua-blue)
-![Python](https://img.shields.io/badge/-Python-blue)
 ![Bash](https://img.shields.io/badge/-Bash-grey)
 ![JSON](https://img.shields.io/badge/-JSON-lightgrey)
 ![YAML](https://img.shields.io/badge/-YAML-blue)
@@ -54,10 +53,7 @@
 ### 🤖 AI, LLM & Automation
 ![LangChain](https://img.shields.io/badge/-LangChain-ff69b4)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991)
-![RAG](https://img.shields.io/badge/-RAG-blue)
-![Pinecone](https://img.shields.io/badge/-Pinecone-11A683)
 ![Whisper API](https://img.shields.io/badge/-WhisperAPI-4A4A4A)
-![AI Agents](https://img.shields.io/badge/-AI%20Agents-darkred)
 ![Embeddings](https://img.shields.io/badge/-Embeddings-orange)
 
 ---
